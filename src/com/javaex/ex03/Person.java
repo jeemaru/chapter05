@@ -43,6 +43,10 @@ public class Person {
 		System.out.println("이름:"+ hp);
 		System.out.println("이름:"+ of);
 	}
+	public String getCompany() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 	
 	
